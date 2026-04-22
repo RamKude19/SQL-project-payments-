@@ -1,0 +1,311 @@
+merchant_id,merchant_name,category,city,rating
+50825,Paytm Mall,Retail,Bangalore,3.7
+57744,Tata,Food,Pune,4.0
+50022,Paytm Mall,Food,Bangalore,4.6
+50580,Swiggy,E-commerce,Bangalore,3.7
+58343,Reliance,Food,Delhi,3.1
+52182,Swiggy,E-commerce,Pune,3.5
+51809,Paytm Mall,Retail,Delhi,3.0
+50436,Flipkart,Services,Delhi,4.4
+53957,Zomato,E-commerce,Pune,2.8
+50924,Swiggy,Food,Delhi,5.0
+56414,Zomato,Food,Bangalore,3.1
+54962,Flipkart,Retail,Pune,3.5
+53840,Paytm Mall,E-commerce,Bangalore,4.1
+52262,Flipkart,E-commerce,Bangalore,4.0
+59780,Amazon,E-commerce,Bangalore,4.8
+54250,Flipkart,Services,Bangalore,4.9
+58617,Paytm Mall,Services,Pune,3.9
+57610,Flipkart,Food,Mumbai,3.4
+54448,Amazon,Services,Bangalore,4.1
+57429,Paytm Mall,Services,Delhi,3.3
+54598,Amazon,E-commerce,Mumbai,2.8
+54745,Flipkart,Food,Pune,2.6
+57372,Zomato,E-commerce,Delhi,4.8
+52787,Paytm Mall,Food,Bangalore,3.8
+52113,Tata,Services,Delhi,3.0
+59127,Reliance,Services,Pune,3.9
+50845,Amazon,Retail,Pune,4.9
+50838,Amazon,Retail,Delhi,3.1
+54429,Reliance,Services,Pune,4.0
+58929,Flipkart,Retail,Mumbai,3.8
+59146,Zomato,E-commerce,Bangalore,2.6
+51947,Swiggy,Food,Delhi,3.8
+55621,Reliance,E-commerce,Bangalore,2.5
+55602,Swiggy,E-commerce,Pune,3.0
+50422,Reliance,Retail,Bangalore,4.4
+57234,Amazon,E-commerce,Bangalore,3.3
+57121,Tata,Retail,Mumbai,3.2
+56507,Amazon,Services,Bangalore,3.5
+56043,Flipkart,Food,Mumbai,3.9
+50944,Zomato,E-commerce,Pune,3.9
+55985,Reliance,Services,Pune,3.0
+59626,Reliance,Retail,Mumbai,2.8
+56415,Reliance,Retail,Delhi,4.4
+50358,Paytm Mall,E-commerce,Pune,4.5
+54013,Flipkart,Services,Bangalore,4.5
+51455,Tata,Services,Delhi,5.0
+56189,Paytm Mall,Retail,Pune,4.4
+55884,Paytm Mall,Food,Bangalore,4.5
+57500,Zomato,E-commerce,Bangalore,4.7
+57593,Swiggy,Food,Bangalore,4.7
+59544,Flipkart,E-commerce,Pune,3.5
+50218,Reliance,Services,Pune,3.3
+55155,Amazon,Food,Bangalore,5.0
+57925,Zomato,Retail,Pune,4.6
+52448,Swiggy,Retail,Mumbai,4.4
+57570,Tata,Retail,Delhi,4.2
+53527,Amazon,Services,Delhi,4.4
+50152,Zomato,Retail,Delhi,3.3
+56717,Swiggy,Services,Bangalore,4.4
+51903,Swiggy,Services,Bangalore,2.9
+51223,Swiggy,Retail,Bangalore,3.9
+54453,Paytm Mall,Retail,Bangalore,3.1
+53122,Tata,Food,Pune,4.4
+57114,Swiggy,E-commerce,Mumbai,4.6
+55899,Reliance,E-commerce,Delhi,2.8
+55758,Zomato,Food,Bangalore,4.1
+54296,Zomato,Food,Pune,3.6
+53556,Tata,Retail,Pune,4.8
+50183,Reliance,Retail,Pune,4.4
+54501,Paytm Mall,Food,Bangalore,3.4
+53084,Reliance,Food,Delhi,4.7
+51772,Paytm Mall,Retail,Bangalore,4.7
+51783,Tata,Services,Bangalore,4.6
+54939,Zomato,E-commerce,Mumbai,4.8
+57983,Swiggy,Services,Delhi,3.4
+51130,Amazon,Food,Delhi,3.2
+55267,Paytm Mall,Services,Bangalore,4.2
+51658,Paytm Mall,Retail,Delhi,2.5
+50207,Reliance,Services,Bangalore,2.6
+53131,Zomato,Services,Pune,2.6
+59268,Paytm Mall,Services,Mumbai,2.8
+56758,Flipkart,Food,Mumbai,4.4
+52130,Zomato,Services,Mumbai,4.7
+59619,Swiggy,Retail,Bangalore,4.9
+52068,Tata,Retail,Delhi,4.9
+56272,Flipkart,Food,Bangalore,3.7
+51581,Swiggy,Services,Pune,4.8
+55152,Reliance,Food,Delhi,3.0
+54117,Amazon,Food,Delhi,4.2
+59349,Flipkart,Food,Bangalore,3.0
+58712,Reliance,Food,Pune,3.9
+57308,Swiggy,Food,Mumbai,3.3
+51502,Flipkart,Services,Pune,4.6
+56314,Flipkart,Food,Mumbai,3.5
+54132,Zomato,Food,Bangalore,3.3
+55793,Reliance,Food,Delhi,4.7
+57027,Tata,Food,Pune,3.4
+54814,Flipkart,Food,Mumbai,3.4
+55842,Amazon,Retail,Pune,4.5
+54898,Amazon,Retail,Pune,3.0
+56267,Zomato,Food,Bangalore,4.8
+55709,Flipkart,Food,Bangalore,4.7
+57544,Paytm Mall,Food,Mumbai,3.4
+59412,Zomato,E-commerce,Bangalore,3.3
+51382,Zomato,Retail,Mumbai,2.8
+58226,Zomato,Services,Delhi,4.6
+59571,Tata,E-commerce,Pune,3.2
+50304,Flipkart,Retail,Mumbai,4.5
+53043,Flipkart,E-commerce,Mumbai,3.2
+56788,Swiggy,Retail,Mumbai,3.8
+57016,Zomato,Services,Pune,4.7
+55683,Zomato,E-commerce,Mumbai,4.7
+58978,Zomato,E-commerce,Pune,4.7
+59305,Zomato,Retail,Mumbai,3.4
+54384,Amazon,Retail,Mumbai,4.7
+55160,Paytm Mall,Services,Pune,4.0
+53680,Paytm Mall,Retail,Delhi,4.4
+55791,Flipkart,Food,Pune,3.3
+50463,Paytm Mall,Retail,Delhi,2.8
+55171,Paytm Mall,Food,Delhi,4.1
+57358,Zomato,E-commerce,Mumbai,3.0
+55348,Flipkart,E-commerce,Pune,4.5
+57813,Paytm Mall,Retail,Delhi,3.6
+52005,Reliance,Retail,Bangalore,4.6
+55206,Paytm Mall,Food,Pune,2.6
+51360,Zomato,Services,Delhi,2.6
+58568,Paytm Mall,Retail,Pune,2.6
+56759,Flipkart,Food,Delhi,4.4
+55733,Tata,Retail,Mumbai,4.3
+59029,Paytm Mall,Food,Bangalore,4.2
+50443,Swiggy,E-commerce,Bangalore,4.8
+58060,Zomato,Food,Mumbai,4.6
+57979,Reliance,Food,Pune,4.3
+52907,Zomato,Food,Delhi,4.0
+51059,Flipkart,Retail,Delhi,4.1
+55186,Tata,Services,Bangalore,4.3
+55287,Amazon,Retail,Bangalore,4.1
+55139,Tata,Retail,Delhi,3.7
+53704,Amazon,E-commerce,Mumbai,3.6
+50778,Tata,Retail,Delhi,4.4
+50261,Paytm Mall,Services,Pune,2.5
+53142,Paytm Mall,Food,Delhi,2.8
+59773,Zomato,Food,Pune,3.9
+55124,Amazon,Retail,Bangalore,3.7
+50273,Flipkart,Retail,Delhi,2.8
+50336,Tata,E-commerce,Delhi,4.8
+51647,Flipkart,Services,Pune,4.4
+59875,Amazon,Food,Pune,3.4
+56260,Zomato,Services,Pune,4.4
+58584,Tata,E-commerce,Mumbai,4.1
+51641,Flipkart,E-commerce,Bangalore,3.9
+53365,Zomato,Retail,Delhi,4.0
+52313,Reliance,Retail,Pune,2.9
+52424,Paytm Mall,Food,Delhi,4.6
+55547,Tata,Retail,Pune,4.8
+50849,Paytm Mall,Food,Bangalore,2.9
+54536,Reliance,Food,Mumbai,4.4
+56554,Flipkart,E-commerce,Delhi,4.9
+58193,Reliance,Services,Mumbai,5.0
+53651,Paytm Mall,Retail,Delhi,4.5
+51994,Reliance,Retail,Pune,3.6
+54832,Zomato,Food,Pune,2.8
+55965,Reliance,E-commerce,Bangalore,3.1
+56791,Zomato,Retail,Pune,2.8
+52966,Paytm Mall,Retail,Mumbai,4.7
+59898,Amazon,Services,Pune,3.9
+57122,Paytm Mall,Retail,Bangalore,3.9
+50662,Tata,Retail,Pune,3.4
+51773,Reliance,Retail,Pune,2.6
+50415,Reliance,E-commerce,Mumbai,4.2
+51992,Reliance,Retail,Mumbai,2.9
+54038,Reliance,Services,Delhi,3.8
+53836,Amazon,Food,Bangalore,3.9
+52300,Amazon,E-commerce,Delhi,4.2
+55696,Flipkart,Retail,Pune,3.2
+51422,Amazon,Services,Pune,3.6
+55157,Amazon,Services,Pune,3.9
+55742,Reliance,Food,Pune,3.4
+59220,Swiggy,Services,Pune,3.4
+54678,Swiggy,Services,Mumbai,2.9
+58825,Tata,Services,Mumbai,3.1
+55466,Tata,E-commerce,Pune,3.4
+56592,Amazon,Retail,Bangalore,2.8
+56259,Paytm Mall,Services,Bangalore,4.7
+56701,Paytm Mall,Retail,Delhi,3.6
+54915,Flipkart,Services,Mumbai,4.4
+58117,Paytm Mall,Food,Mumbai,3.7
+53383,Paytm Mall,Retail,Pune,3.1
+58314,Amazon,Services,Mumbai,3.6
+56845,Swiggy,E-commerce,Delhi,4.8
+56686,Reliance,Services,Bangalore,5.0
+59243,Reliance,Retail,Bangalore,4.0
+56752,Flipkart,E-commerce,Bangalore,4.1
+59120,Swiggy,Services,Delhi,4.7
+57941,Zomato,Food,Bangalore,4.8
+55648,Flipkart,Food,Delhi,3.5
+57953,Tata,E-commerce,Mumbai,3.2
+59502,Reliance,E-commerce,Mumbai,4.3
+58250,Zomato,Services,Pune,4.1
+54385,Flipkart,Services,Delhi,3.7
+58805,Flipkart,Food,Mumbai,4.6
+52824,Paytm Mall,E-commerce,Delhi,4.7
+52983,Amazon,Retail,Mumbai,4.3
+50469,Flipkart,Food,Mumbai,3.2
+54116,Zomato,Services,Mumbai,4.0
+52434,Flipkart,Food,Bangalore,3.6
+58986,Amazon,Services,Mumbai,5.0
+52543,Paytm Mall,Services,Mumbai,4.3
+50071,Tata,E-commerce,Pune,4.6
+50121,Flipkart,Services,Delhi,3.7
+53795,Swiggy,E-commerce,Pune,2.8
+58251,Tata,E-commerce,Delhi,3.1
+56946,Swiggy,E-commerce,Mumbai,4.4
+50171,Swiggy,Food,Mumbai,4.5
+57168,Paytm Mall,Retail,Delhi,3.9
+56193,Tata,Services,Mumbai,3.4
+56532,Flipkart,Food,Bangalore,3.9
+51054,Zomato,Food,Bangalore,2.9
+51827,Swiggy,Retail,Mumbai,4.3
+59938,Zomato,E-commerce,Delhi,3.0
+51575,Paytm Mall,E-commerce,Mumbai,3.3
+55148,Paytm Mall,Food,Bangalore,3.4
+54411,Flipkart,E-commerce,Mumbai,2.5
+52698,Flipkart,Food,Bangalore,3.6
+56422,Paytm Mall,Food,Pune,4.6
+53988,Zomato,E-commerce,Bangalore,2.9
+51352,Zomato,Services,Mumbai,3.5
+58549,Swiggy,E-commerce,Bangalore,4.5
+59614,Reliance,E-commerce,Pune,3.8
+53442,Amazon,E-commerce,Delhi,3.6
+53972,Zomato,E-commerce,Bangalore,3.7
+54149,Swiggy,Retail,Delhi,4.6
+56008,Zomato,E-commerce,Delhi,2.7
+53461,Tata,Services,Delhi,3.6
+55874,Swiggy,Services,Mumbai,4.4
+56769,Swiggy,Retail,Bangalore,4.1
+57749,Zomato,Services,Mumbai,2.7
+54466,Flipkart,Services,Bangalore,4.4
+54260,Zomato,Food,Mumbai,3.8
+51109,Flipkart,Services,Delhi,4.0
+55202,Paytm Mall,Food,Delhi,3.9
+58680,Zomato,E-commerce,Delhi,4.7
+53282,Zomato,Retail,Pune,3.1
+51683,Zomato,Services,Mumbai,3.3
+59126,Paytm Mall,E-commerce,Delhi,4.2
+51951,Tata,E-commerce,Pune,4.5
+58153,Zomato,Food,Delhi,2.8
+59577,Paytm Mall,Food,Mumbai,3.4
+53080,Amazon,E-commerce,Bangalore,4.2
+56002,Amazon,Retail,Delhi,4.1
+54261,Reliance,Food,Pune,4.2
+55261,Reliance,Services,Mumbai,3.0
+57483,Tata,Food,Bangalore,4.9
+51355,Amazon,Services,Mumbai,4.7
+54398,Amazon,Food,Bangalore,4.3
+54883,Reliance,Retail,Pune,3.6
+56737,Flipkart,Retail,Bangalore,3.8
+54337,Swiggy,Retail,Bangalore,3.9
+50450,Tata,Services,Pune,3.1
+58097,Flipkart,Services,Mumbai,3.9
+59884,Tata,Food,Bangalore,4.6
+55769,Reliance,Services,Delhi,4.3
+53293,Flipkart,Food,Bangalore,2.8
+53472,Zomato,Food,Mumbai,3.4
+52351,Reliance,Services,Bangalore,3.2
+52387,Swiggy,Retail,Mumbai,3.3
+51034,Swiggy,Retail,Pune,4.5
+50793,Reliance,Retail,Delhi,4.9
+58405,Zomato,Services,Mumbai,2.6
+58265,Amazon,Food,Bangalore,3.6
+55607,Zomato,Food,Delhi,3.2
+55623,Zomato,Food,Pune,3.8
+56094,Swiggy,E-commerce,Delhi,4.4
+57336,Tata,E-commerce,Delhi,4.8
+53924,Flipkart,Retail,Mumbai,3.3
+57363,Tata,Services,Bangalore,4.7
+50185,Flipkart,Services,Mumbai,2.9
+56419,Flipkart,Retail,Bangalore,3.9
+57967,Swiggy,Food,Pune,3.5
+50959,Swiggy,Services,Pune,4.6
+56831,Tata,Retail,Mumbai,4.9
+50374,Swiggy,Retail,Mumbai,2.6
+56261,Amazon,Services,Pune,2.5
+52289,Tata,Food,Delhi,3.6
+57142,Amazon,Services,Pune,3.4
+52679,Flipkart,Services,Bangalore,4.2
+56957,Zomato,Food,Pune,4.1
+56777,Zomato,Retail,Delhi,4.6
+50896,Zomato,E-commerce,Bangalore,3.0
+57294,Flipkart,Food,Mumbai,3.3
+57033,Paytm Mall,E-commerce,Mumbai,3.8
+56540,Zomato,Retail,Mumbai,2.9
+51781,Flipkart,Retail,Delhi,3.2
+57504,Swiggy,Services,Delhi,3.4
+52812,Reliance,Food,Delhi,4.5
+60273,Reliance,Services,Bangalore,3.1
+60931,Paytm Mall,Retail,Delhi,3.7
+60427,Flipkart,Food,Mumbai,4.9
+60498,Tata,Retail,Mumbai,3.8
+60366,Tata,Food,Mumbai,3.3
+60708,Reliance,Retail,Bangalore,3.8
+60404,Flipkart,Food,Pune,4.1
+60278,Zomato,E-commerce,Delhi,4.1
+60795,Swiggy,Food,Pune,4.3
+60497,Zomato,Services,Pune,3.7
+60790,Zomato,E-commerce,Pune,5.0
+60847,Tata,Food,Pune,3.0
+60395,Paytm Mall,Services,Mumbai,2.6
+60771,Swiggy,Retail,Bangalore,3.4
+60535,Reliance,Food,Mumbai,3.7
